@@ -1,6 +1,8 @@
 # Color Preview
 
-Preview color combinations on your site, but only if they have enough contrast to be WCAG accessible https://codesandbox.io/s/github/DTrej…
+Preview color combinations on your site, 
+but only if they have enough contrast to be WCAG 
+accessible.
 
 ## [Demo][demo]
 [See the colorpreview demo][demo].
@@ -8,9 +10,9 @@ Preview color combinations on your site, but only if they have enough contrast t
 [demo]: https://8x4rl240v9.codesandbox.io/
 
 ## Screenshot of the demo
-[screenshot][screenshot]
+![[screenshot][screenshot]][screenshot]
 
-[screenshot]: ./assets/color-preview-screenshot.png
+[screenshot]: ./src/assets/color-preview-screenshot.png
 
 ---
 
