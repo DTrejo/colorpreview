@@ -1,9 +1,10 @@
 {
-  "name": "test-project",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
-  "main": "src/main.js",
   "private": true,
+  "name": "colorpreview",
+  "version": "1.0.0",
+  "description":
+    "Preview color combinations on your site, but only if they have enough contrast to be WCAG accessible",
+  "main": "src/main.js",
   "scripts": {
     "dev":
       "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -72,5 +73,6 @@
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
   },
-  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"]
+  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
+  "keywords": ["contrast", "wcag", "color", "preview"]
 }
