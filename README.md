@@ -10,9 +10,10 @@ accessible.
 [demo]: https://8x4rl240v9.codesandbox.io/
 
 ## Screenshot of the demo
-![[screenshot][screenshot]][screenshot]
 
-[screenshot]: ./src/assets/color-preview-screenshot.png
+I pulled the hex codes below from an <https://unsplash.com> image using <https://dtrejo.com/colorslice>'s "generate" button, plus a couple handpicked colors to get a wider range of color.
+
+<a href="https://github.com/DTrejo/colorpreview/raw/master/src/assets/color-preview-screenshot.png"><img src="https://github.com/DTrejo/colorpreview/raw/master/src/assets/color-preview-screenshot.png" alt="screenshot" width="400px"/></a>
 
 ---
 
