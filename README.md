@@ -1,13 +1,15 @@
-# Color Preview
+# [Color Preview][demo]
 
 Preview color combinations on your site, 
 but only if they have enough contrast to be WCAG 
-accessible.
+accessible. 
+
+Shows headlines and body text with bold, italic, and underline formatting.
 
 ## [Demo][demo]
 [See the colorpreview demo][demo].
 
-[demo]: https://ywnxq6nyxx.codesandbox.io/
+[demo]: https://dtrejo.com/colorpreview/
 
 ## Screenshot of the demo
 
