@@ -2,12 +2,10 @@
   "private": true,
   "name": "colorpreview",
   "version": "1.0.0",
-  "description":
-    "Preview color combinations on your site, but only if they have enough contrast to be WCAG accessible",
+  "description": "Preview color combinations on your site, but only if they have enough contrast to be WCAG accessible",
   "main": "src/main.js",
   "scripts": {
-    "dev":
-      "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "unit": "jest --config test/unit/jest.conf.js --coverage",
     "test": "npm run unit",
@@ -58,6 +56,8 @@
     "rimraf": "^2.6.0",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
+    "stylus": "0.54.5",
+    "stylus-loader": "3.0.2",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-jest": "^1.0.2",
@@ -73,6 +73,15 @@
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
   },
-  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
-  "keywords": ["contrast", "wcag", "color", "preview"]
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": [
+    "contrast",
+    "wcag",
+    "color",
+    "preview"
+  ]
 }
