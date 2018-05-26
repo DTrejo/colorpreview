@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/colorpreview/', // for github pages off dtrejo.com/colorpreview/*
 
     /**
      * Source Maps
