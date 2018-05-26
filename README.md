@@ -7,7 +7,7 @@ accessible.
 ## [Demo][demo]
 [See the colorpreview demo][demo].
 
-[demo]: https://8x4rl240v9.codesandbox.io/
+[demo]: https://ywnxq6nyxx.codesandbox.io/
 
 ## Screenshot of the demo
 
